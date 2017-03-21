@@ -1,0 +1,12 @@
+[0308/154635.108:ERROR:exception_snapshot_win.cc(87)] thread ID 3896 not found in process
+[0308/154635.108:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0308/154635.170:ERROR:exception_snapshot_win.cc(87)] thread ID 1300 not found in process
+[0308/154635.170:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0308/154635.577:ERROR:exception_snapshot_win.cc(87)] thread ID 396 not found in process
+[0308/154635.577:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0308/154635.639:ERROR:exception_snapshot_win.cc(87)] thread ID 1852 not found in process
+[0308/154635.639:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/091407.403:ERROR:process_reader_win.cc(142)] SuspendThread: Acceso denegado. (0x5)
+[0314/091407.434:ERROR:exception_snapshot_win.cc(87)] thread ID 996 not found in process
+[0314/091407.434:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/091407.434:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose.  (0xc000010a)
